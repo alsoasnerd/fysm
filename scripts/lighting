@@ -9,7 +9,7 @@ LFT_MONITOR="eDP"
 # Normal Mode Configs
 NRML_GAMMA="1:1:1";
 NRML_LFT_BRGHT="1";
-NRML_RGT_BRGHT="0.8";
+NRML_RGT_BRGHT="1";
 
 # Night Mode Configs
 NGT_GAMMA="1:1:0.75";
